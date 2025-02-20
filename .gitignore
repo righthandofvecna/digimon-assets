@@ -1,0 +1,6 @@
+gen/confirm_directions.py
+gen/get_frames.py
+gen/get_profiles.py
+gen/resize_to_square.py
+
+temporary/
