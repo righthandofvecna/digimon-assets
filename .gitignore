@@ -4,3 +4,9 @@ gen/get_profiles.py
 gen/resize_to_square.py
 
 temporary/
+.venv/
+__pycache__/
+*.pyc
+build/
+DigimonSheetSplitter.spec
+dist/
